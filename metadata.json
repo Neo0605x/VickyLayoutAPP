@@ -1,0 +1,6 @@
+{
+  "name": "A4 排版設計與 PDF 匯出系統",
+  "description": "專業 A4 規格排版系統，支援圖片智慧無覆蓋隨機排列、經典版型、即時畫布拖拽、細部外框與旋轉參數調整、自訂文字層級與 PDF 高解析匯出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
